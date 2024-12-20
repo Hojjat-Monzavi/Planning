@@ -1,4 +1,4 @@
-# Study Time Optimizer
+# Planner
 
 A weekly planner that uses Simulated Annealing (SA) to generate optimal study schedules, taking into account the non-linear nature of learning efficiency.
 
