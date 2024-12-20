@@ -19,8 +19,8 @@ This program optimizes weekly study schedules by considering factors such as:
 ```bash
 git clone https://github.com/Hojjat-Monzavi/Planning.git
 cd Planning
-g++ Planner.cpp -O3 -o planner
-./planner
+g++ Planning.cpp -O3 -o planning
+./planning
 ```
 
 ## Usage
